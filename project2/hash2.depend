@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1676139718 source:c:\users\lenovo\onedrive\desktop\semesters\the fifth semester\comp2421\projects\project 2\hash2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
